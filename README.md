@@ -1,4 +1,4 @@
-# Spotify_spotipy
+# Spotify BPM playlists for running through spotipy
 Using spotipy to make playlists with specific BPMs
 
 Spotify used to have a running feature where it would play songs with a selected BPM based on your tastes. It was essentially like an unlimited discover weekly based around the tempo. Then they killed this feature. Thus, I was interested in making playlists of music I like or music I might like at a given tempo. 
